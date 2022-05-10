@@ -28,7 +28,8 @@ export default function Home() {
 The Superstore dataset was gotten from  
     <a href="https://docs.google.com/spreadsheets/d/1vGWkF3vBHJc-kG7uIeD5_A6G43w50ISs/edit?rtpof=true"> Kaggle </a>
     (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final ) and it about a 
-    superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. The dataset contains 9994 rows of records and 21 columns of attributes with no missing values.
+    superstore giant looking to understand which product, categories, regions and customer segment they focus on or be wary of. 
+    The dataset contains 9994 rows of records and 21 columns of attributes with no missing values.
 
     
     
