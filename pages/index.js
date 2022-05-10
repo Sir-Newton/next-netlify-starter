@@ -14,10 +14,20 @@ export default function Home() {
         <Header title="BBsTeams App!" />
         <p className="description">
         
-                <h3>GROUP 4 INTERACTIVE VISUALZATION ASSESMENT</h3>
-                <h4>  </h4>
-                <h4>WHAT IS INTERACTIVE VISUALIZATION</h4>
-                <h4></h4>
+                <h3 style="text-align:center;">GROUP 4 INTERACTIVE VISUALZATION ASSESMENT</h3>
+                <h4 style="text-align:center;">  </h4>
+                <h4 style="text-align:center;">WHAT IS INTERACTIVE VISUALIZATION</h4>
+                <h4>The technique of developing interactive visualizations to comprehend patterns, variances, and derive useful and meaningful 
+    insights from data is known as data visualization. Data visualization is primarily used for data cleansing, exploration, and discovery, as 
+    well as for conveying outcomes to Business stakeholders. It can be used as a tool for data pre-processing as well as gaining insights into the data. 
+    The key to effective communication of outcomes is having the correct selection of visuals for diverse data types and business scenarios. In this project, 
+    we will be discussing business insights that can be drawn from the data gotten from a Superstore Giant in the United States of America
+    
+    
+    
+    
+    
+    </h4>
                 <h4></h4>
                 <h4></h4>
                 
